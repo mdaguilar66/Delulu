@@ -2432,6 +2432,16 @@ product-info .loading__spinner:not(.hidden) ~ *,
     text-align: center;
   }
 
+  .header--middle-middle {
+    grid-template-areas: 'heading navigation icons';
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 2rem;
+  }
+
+  .header--middle-middle .header__inline-menu {
+    text-align: center;
+  }
+
   .header--top-center {
     grid-template-areas:
       'left-icons heading icons'

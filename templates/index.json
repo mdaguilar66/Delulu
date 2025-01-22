@@ -9,22 +9,70 @@
  */
 {
   "sections": {
+    "image_banner_MaP9Jc": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_diiQVq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_w7PAGk": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_XPcQLi": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_diiQVq",
+        "text_w7PAGk",
+        "buttons_XPcQLi"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/114BD9BD-7F2A-49A1-90F8-0A167204907B.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
         "title": "shop ✨disinherited✨",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
         "collection": "all",
         "products_to_show": 14,
         "columns_desktop": 3,
-        "full_width": true,
+        "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
-        "color_scheme": "scheme-a7fd3ad2-c780-4a5b-8821-3d5bd9cfd8f5",
+        "color_scheme": "scheme-278d5c63-2e54-4eb7-bb8f-df822f37ee1d",
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": true,
@@ -39,6 +87,7 @@
     }
   },
   "order": [
+    "image_banner_MaP9Jc",
     "featured_collection"
   ]
 }

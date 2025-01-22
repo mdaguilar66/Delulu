@@ -1,0 +1,77 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+ {
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "welcome to Delulu London",
+            "link": ""
+          }
+        },
+        "2411f221-abae-4f0d-9423-c662521d29f8": {
+          "type": "announcement",
+          "settings": {
+            "text": "shop the breakup edit collection today",
+            "link": ""
+          }
+        },
+        "18cac71a-b74c-4525-80d0-689fb20c651b": {
+          "type": "announcement",
+          "settings": {
+            "text": "follow our ig @delulu.co.uk for updates <3",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-bar-0",
+        "2411f221-abae-4f0d-9423-c662521d29f8",
+        "18cac71a-b74c-4525-80d0-689fb20c651b"
+      ],
+      "settings": {
+        "color_scheme": "scheme-a7fd3ad2-c780-4a5b-8821-3d5bd9cfd8f5",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-center",
+        "menu": "main-menu",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "reduce-logo-size",
+        "show_line_separator": true,
+        "color_scheme": "scheme-a7fd3ad2-c780-4a5b-8821-3d5bd9cfd8f5",
+        "menu_color_scheme": "scheme-a7fd3ad2-c780-4a5b-8821-3d5bd9cfd8f5",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

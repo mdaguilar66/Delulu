@@ -15,14 +15,14 @@
         "heading_diiQVq": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "May your Delulu come truelulu",
             "heading_size": "h1"
           }
         },
         "text_w7PAGk": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Discover the Breakup Edit Collection – Sustainably Packaged, Uniquely You",
             "text_style": "body"
           }
         },
@@ -30,7 +30,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Now",
-            "button_link_1": "shopify://collections/all",
+            "button_link_1": "shopify://collections/the-breakup-edit",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -44,17 +44,17 @@
         "buttons_XPcQLi"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_5395.jpg",
-        "image_overlay_opacity": 50,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
+        "image": "shopify://shop_images/Image.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "large",
+        "desktop_content_position": "middle-left",
         "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "inverse",
-        "image_behavior": "zoom-in",
+        "desktop_content_alignment": "left",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "collection_list_Y7kJhT": {

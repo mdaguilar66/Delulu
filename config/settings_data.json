@@ -13,7 +13,7 @@
     "logo_width": 120,
     "type_header_font": "playfair_display_n4",
     "heading_scale": 100,
-    "type_body_font": "fjalla_one_n4",
+    "type_body_font": "neuton_n4",
     "body_scale": 120,
     "page_width": 1200,
     "spacing_sections": 0,
@@ -43,7 +43,7 @@
     "inputs_shadow_vertical_offset": 4,
     "inputs_shadow_blur": 5,
     "card_style": "card",
-    "card_image_padding": 0,
+    "card_image_padding": 16,
     "card_text_alignment": "left",
     "card_color_scheme": "scheme-278d5c63-2e54-4eb7-bb8f-df822f37ee1d",
     "card_border_thickness": 2,
@@ -191,8 +191,8 @@
           "background": "#141b2d",
           "background_gradient": "",
           "text": "#ffffff",
-          "button": "#ffffff",
-          "button_label": "#141b2d",
+          "button": "#9f1e1f",
+          "button_label": "#ffffff",
           "secondary_button_label": "#ffffff",
           "shadow": "#121212"
         }
